@@ -1,2 +1,2 @@
 # Aulas-PooJava
-Aula de Programação Orientada a Objetos em Java
+Aulas do SENAI de Programação Orientada a Objetos em Java
